@@ -1,6 +1,6 @@
 If You Are A Begginger And Want The Script?
 
-Just Press On View More Button
+Just Press On View Code Button
 
 T h i s
 
