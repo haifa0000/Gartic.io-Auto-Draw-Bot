@@ -1,7 +1,1 @@
-while true do
-
-game.ReplicatedStorage.Main Event:FireServer("Stomp")
-
-end
-
-Script Needed: loadstring(game:HttpGet("UrlHere",true))(
+https://greasyfork.org/en/scripts/467023-gartic-io-drawing-bot
