@@ -1,4 +1,0 @@
-while true do
-game.ReplicatedStorage.Main Event:FireServer("Stomp")
-end
-Script Needed: loadstring(game:HttpGet("UrlHere",true))(
