@@ -1,4 +1,4 @@
-If You A Begginger And Want The Screen?
+If You Are Begginger And Want The Screen?
 Just Press On View More Button
 
 T h i s
